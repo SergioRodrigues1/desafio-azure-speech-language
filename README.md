@@ -55,10 +55,6 @@ As capturas de tela dos testes estão na pasta `/images`.
 - Recomendo para quem deseja explorar IA com foco em linguagem.
 
 ---
-
-## 🚀 Como rodar
-Não é necessário rodar código. Basta acessar as ferramentas online.
-
 ---
 
 ## 📎 Links Úteis
